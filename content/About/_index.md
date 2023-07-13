@@ -10,7 +10,9 @@ cascade:
 
 ![image-genius-guy](img/excuse-genius-guy.jpg)
 
-Excuse Genius was born out of a simple observation: life doesn't always align with our plans, and sometimes, we need a way out. We've all faced those moments when we wished we could politely evade a commitment without causing offense. However, finding the right words can be challenging.
+Excuse Genius was born out of a simple observation: life doesn't always align with our plans, and sometimes, we need a way out. 
+
+We've all faced those moments when we wished we could politely evade a commitment without causing offense. However, finding the right words can be challenging.
 
 That's where Excuse Genius steps in. We're here to provide you with a treasure trove of tactful, funny, and believable excuses for every scenario you can imagine. But we're not just about helping people wriggle out of uncomfortable situations - we're about empowering individuals to take control of their time and live life on their terms.
 
